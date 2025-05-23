@@ -65,6 +65,7 @@ body {
 .form-container{
   width: 400px;
 }
+
 .video-vd{
   height: 100vh;
   overflow: hidden;
@@ -147,6 +148,9 @@ form button{
   color: white;
   border-radius: 4px;
   cursor: pointer;
+}
+span{
+  color: red;
 }
 .contact-section h2{
   color: #111827;
